@@ -10,13 +10,10 @@
   <img align="left" alt="samir's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
  </a>
 
-
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 <br />
 <br />
-
-### Hi there 👋
 
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently learning Django,Python,Rust,React
