@@ -1,3 +1,21 @@
+<h2 title="hehehe"> Hey 👋, I'm Samir Thapa!</h2>
+
+<a href="https://www.linkedin.com/in/samir-thapa-73a9a31b6/">
+  <img align="left" alt="Samir's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/_samir__thapa/">
+  <img align="left" alt="samir's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
+<a href="https://twitter.com/potentialpotat2">
+  <img align="left" alt="samir's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+ </a>
+
+
+
+
+<br />
+<br />
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Myself
@@ -8,12 +26,6 @@
 - 📫 How to reach me: thapa.qw12@gmail.com
 - 😄 Pronouns: NAh!
 - ⚡ Fun fact: I am always horny :(
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-  
-  <br>
-  <br>
-
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thapasamir&theme=algolia" alt="thapasamir"  /></p>
