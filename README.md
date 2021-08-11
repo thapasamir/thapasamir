@@ -10,6 +10,9 @@
 - 😄 Pronouns: NAh!
 - ⚡ Fun fact: I am always horny :(
 
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thapasamir&theme=algolia" alt="thapasamir"  /></p>
 
