@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently learning Django,Python,Rust,React
 - 👯 I’m looking to collaborate on Mia Khalifa
@@ -10,7 +9,10 @@
 - 😄 Pronouns: NAh!
 - ⚡ Fun fact: I am always horny :(
 
-
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  
+  <br>
+  <br>
 
 
 ### 🔥 Streak Stats
