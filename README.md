@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am always horny :(
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thapasamir&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 
 <hr>
 <p align="center">
