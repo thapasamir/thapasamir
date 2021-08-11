@@ -14,7 +14,7 @@
 
 <br />
 <br />
-<!--
+
 <div>
 cpp  
                                     void life(void)
@@ -29,7 +29,7 @@ cpp
 
 
 </div>
-!-->
+
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thapasamir&theme=algolia" alt="thapasamir"  /></p>
