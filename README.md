@@ -18,8 +18,7 @@
 - 🔭 I’m currently working on Varicon
 - 🌱 I’m currently learning Django,Python,Rust,React 
 - 📫 How to reach me: thapa.qw12@gmail.com 
-- 😄 Pronouns: aluman
-- ⚡ Fun fact: I love potato
+
 
 
 ### 🔥 Streak Stats
