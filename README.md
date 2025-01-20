@@ -1,8 +1,6 @@
 <h2 title="hehehe"> Hey 👋, I'm Samir Thapa!</h2>
 
-<a href="https://www.linkedin.com/in/samir-thapa-73a9a31b6/">
-  <img align="left" alt="Samir's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
+
 <a href="https://www.instagram.com/_samir__thapa/">
   <img align="left" alt="samir's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
@@ -15,9 +13,6 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on Varicon
-- 🌱 I’m currently learning Django,Python,Rust,React 
-- 📫 How to reach me: thapa.qw12@gmail.com 
 
 
 
